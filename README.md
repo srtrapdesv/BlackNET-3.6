@@ -1,2 +1,2 @@
 # BlackNET
-FREE BOTNET v3.5.3
+BlackNET v3.5.3 | Soon
