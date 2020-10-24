@@ -5,20 +5,20 @@ BlackNET v3.6.0 | Soon
 
 ```
 v3.6.0
-  1. Replace GeoPlugin API with GeoLite2
-  2. Add Upload from Disk Command
-  3. Add White Label Settings
-  4. Add HTTPS Support
-  5. Add Debug Mode
-  6. Add Software Name in Password Viewr
-  7. Add Dark Mode
+  1. Replaced GeoPlugin API with GeoLite2
+  2. Added Upload from Disk Command
+  3. Added White Label Settings
+  4. Added HTTPS Support
+  5. Added Debug Mode
+  6. Added Software Name in Password Viewr
+  7. Added Dark Mode
   8. Fixed PasswordStealer Bugs
   9. Cleaner Panel Code
   10. Better Settings Handling
   11. Fixed "Password Reset Token" Bug
   12. Updated reCaptch from v2 to v3
-  13. Update PHPMailer to 6.1.8
-  14. Update BlackUpload to v1.5.1
+  13. Updated PHPMailer to 6.1.8
+  14. Updated BlackUpload to v1.5.1
   15. Small UI Changes
   16. Faster C&C System
   17. Less CPU Usage
