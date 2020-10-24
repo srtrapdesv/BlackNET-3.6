@@ -12,7 +12,7 @@ v3.6.0
   5. Added Debug Mode
   6. Added Software Name in Password Viewer
   7. Added Dark Mode
-  8. Added Outlook Stealer (2003 - 2019)
+  8. Added Outlook Stealer
   9. Fixed PasswordStealer Bugs
   10. Cleaner Panel Code
   11. Better Settings Handling
