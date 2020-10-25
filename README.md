@@ -58,7 +58,8 @@ Developed By: Black.Hacker
  19. Uninstall Client
  20. Move Client
  21. Blacklist Client
- 22. Close Client
+ 23. Update Client
+ 24. Close Client
 
 ## Requirements
 1. PHP >=  7.0
@@ -80,24 +81,25 @@ v3.6.0
   6. Added Software Name in Password Viewer
   7. Added Dark Mode
   8. Added Outlook Stealer
-  9. Custom Data Splitter
-  10. Enhanced HTTP Socket
-  11. Fixed PasswordStealer Bugs
-  12. Cleaner Panel Code
-  13. Better Settings Handling
-  14. Fixed "Password Reset Token" Bug
-  15. Updated reCaptch from v2 to v3
-  16. Updated PHPMailer to 6.1.8
-  17. Updated BlackUpload to v1.5.1
-  18. Small UI Changes
-  19. Faster C&C System
-  20. Less CPU Usage
-  21. Fixed Custom Plugin Bugs
-  22. Updated Custom Plugin System
-  23. Cleaner Database Structure
-  24. Small Installation Changes
-  25. New Logo
-  26. Bugs Fixes
+  9. Added Update Client
+  10. Custom Data Splitter
+  11. Enhanced HTTP Socket
+  12. Fixed PasswordStealer Bugs
+  13. Cleaner Panel Code
+  14. Better Settings Handling
+  15. Fixed "Password Reset Token" Bug
+  16. Updated reCaptch from v2 to v3
+  17. Updated PHPMailer to 6.1.8
+  18. Updated BlackUpload to v1.5.1
+  19. Small UI Changes
+  20. Faster C&C System
+  21. Less CPU Usage
+  22. Fixed Custom Plugin Bugs
+  23. Updated Custom Plugin System
+  24. Cleaner Database Structure
+  25. Small Installation Changes
+  26. New Logo
+  27. Bugs Fixes
 ```
 
 ## Thanks to
