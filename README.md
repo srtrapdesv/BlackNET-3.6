@@ -20,6 +20,54 @@ this botnet controller comes with a lot of features and the most secure panel fo
 
 Developed By: Black.Hacker
 
+## What You Can Do
+ 1. Upload File
+    + From URL
+    + From Disk
+ 2. DDOS Attack [ TCP,UDP,ARME,Slowloris, HTTPGet, POSTHttp, Bandwidth Flood ]
+    + Start DDOS
+    + Stop DDOS
+ 3. Open Webpage
+     + Visible
+     + Hidden
+ 4. Show MessageBox
+ 5. Take Screenshot
+ 6. Steal Firefox Cookies
+ 7. Steal Saved Passwords
+    + Chrome
+    + Firefox
+    + NordVPN
+    + FileZilla
+    + Outlook
+ 8. Steal Chrome Cookies
+ 9. Steal Discord Token
+ 10. Steal Chrome Hisory
+ 11. Steal Clipboard Data
+ 12. Execute Shell Commands
+     + CMD (Command Prompt)
+     + Powershell
+ 13. Send Spam Emails
+ 14. Keylogger
+ 15. Execute Scripts
+ 16. Execute Custom Plugins
+ 17. Computer Operations
+     + Restart
+     + Shutdown
+     + Logout
+ 18. Bitcoint Wallet Stealer
+ 19. Uninstall Client
+ 20. Move Client
+ 21. Blacklist Client
+ 22. Close Client
+
+## Requirements
+1. PHP >=  7.0
+    + cURL
+    + php_cURL
+2. NET Framework
+    + Stub >= 2.0
+    + Builder >= 4.0
+
 ## Coming Soon
 
 ```
@@ -61,7 +109,6 @@ v3.6.0
 
 ## License
 This project is licensed under the MIT License
-
 
 ## Copyright
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) 
