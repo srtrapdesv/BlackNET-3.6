@@ -27,5 +27,6 @@ v3.6.0
   20. Fixed Custom Plugin Bugs
   21. Updated Custom Plugin System
   22. Cleaner Database Structure
-  23. Bugs Fixes
+  23. Small Installation Changes
+  24. Bugs Fixes
 ```
