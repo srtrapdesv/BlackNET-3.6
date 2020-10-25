@@ -1,3 +1,15 @@
+<p align="center">
+ <img src="https://b.top4top.io/p_1759eq38n1.png" alt="" />
+</p>
+
+<p align="center">
+ <a href="#"><img align="center" src="https://img.shields.io/maintenance/yes/2020" /></a>
+ <a href="#"><img align="center" src="https://img.shields.io/github/license/FarisCode511/BlackNET" /></a>
+ <a href="#"><img align="center" src="https://img.shields.io/github/languages/top/FarisCode511/BlackNET" /></a>
+ <a href="#"><img align="center" src="https://badgen.net/badge/color/awesome/pink?icon=awesome&label" /></a>
+ <a href="#"><img align="center" src="https://img.shields.io/github/v/release/FarisCode511/BlackNET" /></a>
+</p>
+
 # BlackNET
 BlackNET v3.6.0 | Soon
 
