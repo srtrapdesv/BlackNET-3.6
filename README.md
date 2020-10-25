@@ -11,7 +11,14 @@
 </p>
 
 # BlackNET
-BlackNET v3.6.0 | Soon
+Free advanced and modern Windows botnet with a nice and secure PHP panel developed using VB.NET.
+
+## About BlackNET
+Free advanced and modern Windows botnet with a nice and secure PHP panel built using VB.NET.
+
+this botnet controller comes with a lot of features and the most secure panel for free
+
+Developed By: Black.Hacker
 
 ## Coming Soon
 
@@ -43,3 +50,20 @@ v3.6.0
   24. New Logo
   25. Bugs Fixes
 ```
+
+## Thanks to
+- KFC
+- NYAN CAT
+- omerfademir
+
+## LEGAL DISCLAIMER PLEASE READ!
+##### I, the creator and all those associated with the development and production of this program are not responsible for any actions and or damages caused by this software. You bear the full responsibility of your actions and acknowledge that this software was created for educational purposes only. This software's intended purpose is NOT to be used maliciously, or on any system that you do not have own or have explicit permission to operate and use this program on. By using this software, you automatically agree to the above.
+
+## License
+This project is licensed under the MIT License
+
+
+## Copyright
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) 
+
+Copyright © Black.Hacker - 2020
