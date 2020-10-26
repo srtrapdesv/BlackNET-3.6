@@ -76,7 +76,7 @@ v3.6.0 (31/10/2020)
   1. Replaced GeoPlugin API with GeoLite2
   2. Added Upload from Disk Command
   3. Added White Label Settings
-  4. Added HTTPS Support
+  4. Added SSL/TLS Support
   5. Added Debug Mode
   6. Added Software Name in Password Viewer
   7. Added Dark Mode
