@@ -95,11 +95,12 @@ v3.6.0
   20. Faster C&C System
   21. Less CPU Usage
   22. Fixed Custom Plugin Bugs
-  23. Updated Custom Plugin System
-  24. Cleaner Database Structure
-  25. Small Installation Changes
-  26. New Logo
-  27. Bugs Fixes
+  23. Fixed Firefox Cookies Stealer
+  24. Updated Custom Plugin System
+  25. Cleaner Database Structure
+  26. Small Installation Changes
+  27. New Logo
+  28. Bugs Fixes
 ```
 
 ## Thanks to
