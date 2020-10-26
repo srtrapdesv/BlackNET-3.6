@@ -72,7 +72,7 @@ Developed By: Black.Hacker
 ## Coming Soon
 
 ```
-v3.6.0
+v3.6.0 (31/10/2020)
   1. Replaced GeoPlugin API with GeoLite2
   2. Added Upload from Disk Command
   3. Added White Label Settings
