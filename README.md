@@ -106,7 +106,7 @@ v3.6.0 (31/10/2020)
 
 ## Thanks to
 - KFC
-- NYAN CAT
+- NYANxCAT
 - 0xfd
 
 ## LEGAL DISCLAIMER PLEASE READ!
