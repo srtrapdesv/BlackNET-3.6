@@ -82,25 +82,26 @@ v3.6.0 (31/10/2020)
   7. Added Dark Mode
   8. Added Outlook Stealer
   9. Added Update Client
-  10. Custom Data Splitter
-  11. Enhanced HTTP Socket
-  12. Fixed PasswordStealer Bugs
-  13. Cleaner Panel Code
-  14. Better Settings Handling
-  15. Fixed "Password Reset Token" Bug
-  16. Updated reCaptch from v2 to v3
-  17. Updated PHPMailer to 6.1.8
-  18. Updated BlackUpload to v1.5.1
-  19. Small UI Changes
-  20. Faster C&C System
-  21. Less CPU Usage
-  22. Fixed Custom Plugin Bugs
-  23. Fixed Firefox Cookies Stealer
-  24. Updated Custom Plugin System
-  25. Cleaner Database Structure
-  26. Small Installation Changes
-  27. New Logo
-  28. Bugs Fixes
+  10. Added "Delay Execution" Function
+  11. Custom Data Splitter
+  12. Enhanced HTTP Socket
+  13. Fixed PasswordStealer Bugs
+  14. Cleaner Panel Code
+  15. Better Settings Handling
+  16. Fixed "Password Reset Token" Bug
+  17. Updated reCaptch from v2 to v3
+  18. Updated PHPMailer to 6.1.8
+  19. Updated BlackUpload to v1.5.1
+  20. Small UI Changes
+  21. Faster C&C System
+  22. Less CPU Usage
+  23. Fixed Custom Plugin Bugs
+  24. Fixed Firefox Cookies Stealer
+  25. Updated Custom Plugin System
+  26. Cleaner Database Structure
+  27. Small Installation Changes
+  28. New Logo
+  29. Bugs Fixes
 ```
 
 ## Thanks to
