@@ -80,10 +80,10 @@ Developed By: Black.Hacker
 ![](https://a.top4top.io/p_1761yfszm1.png)
 
 
-## Coming Soon
+## What's New
 
 ```
-v3.6.0 (31/10/2020)
+v3.6.0
   1. Replaced GeoPlugin API with GeoLite2
   2. Added Upload from Disk Command
   3. Added White Label Settings
