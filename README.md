@@ -97,22 +97,23 @@ v3.6.0 (31/10/2020)
   11. Custom Data Splitter
   12. Enhanced HTTP Socket
   13. Fixed PasswordStealer Bugs
-  14. Cleaner Panel Code
-  15. Better Settings Handling
-  16. Fixed "Password Reset Token" Bug
-  17. Updated reCaptch from v2 to v3
-  18. Updated PHPMailer to 6.1.8
-  19. Updated BlackUpload to v1.5.1
-  20. Small UI Changes
-  21. Faster C&C System
-  22. Less CPU Usage
-  23. Fixed Custom Plugin Bugs
-  24. Fixed Firefox Cookies Stealer
-  25. Updated Custom Plugin System
-  26. Cleaner Database Structure
-  27. Small Installation Changes
-  28. New Logo
-  29. Bugs Fixes
+  14. Fixed LimeLogger UTF-8 Issues
+  15. Cleaner Panel Code
+  16. Better Settings Handling
+  17. Fixed "Password Reset Token" Bug
+  18. Updated reCaptch from v2 to v3
+  19. Updated PHPMailer to 6.1.8
+  20. Updated BlackUpload to v1.5.1
+  21. Small UI Changes
+  22. Faster C&C System
+  23. Less CPU Usage
+  24. Fixed Custom Plugin Bugs
+  25. Fixed Firefox Cookies Stealer
+  26. Updated Custom Plugin System
+  27. Cleaner Database Structure
+  28. Small Installation Changes
+  29. New Logo
+  30. Bugs Fixes
 ```
 
 ## Thanks to
