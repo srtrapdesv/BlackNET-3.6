@@ -41,7 +41,7 @@ Developed By: Black.Hacker
     + Outlook
  8. Steal Chrome Cookies
  9. Steal Discord Token
- 10. Steal Chrome Hisory
+ 10. Steal Chrome History
  11. Steal Clipboard Data
  12. Execute Shell Commands
      + CMD (Command Prompt)
@@ -54,7 +54,7 @@ Developed By: Black.Hacker
      + Restart
      + Shutdown
      + Logout
- 18. Bitcoint Wallet Stealer
+ 18. Bitcoin Wallet Stealer
  19. Uninstall Client
  20. Move Client
  21. Blacklist Client
