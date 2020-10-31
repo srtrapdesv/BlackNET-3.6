@@ -69,7 +69,24 @@ Developed By: Black.Hacker
     + Stub >= 2.0
     + Builder >= 4.0
 
-# Screenshots
+## How to Install
+1. Clone the Repo
+2. Compress BlackNET panel folder and upload it to your hosting
+3. Create a database with any name you want
+4. Change the database information in config/config.php
+5. Change files and folders permission to 777
+6. Make Sure that all DLLs are included in Plugins Folder
+7. Go to install.php fill-up the form and click install to create the botnet tables automatically
+8. Enable a Cron Job for ping.php and remove.php
+
+
+## Update notice
+If you have BlackNET installed you need
+
+1. Upload the new files
+2. Run update.php
+
+## Screenshots
 
 ![](https://d.top4top.io/p_1761hwi5l1.png)
 
@@ -78,6 +95,15 @@ Developed By: Black.Hacker
 ![](https://j.top4top.io/p_1738jsi5f2.png)
 
 ![](https://a.top4top.io/p_1761yfszm1.png)
+
+## YouTube Tutorials
+[How to install BlackNET v3.6.0](https://youtu.be/C0YRoLXc26w)
+
+[How to obfuscate BlackNET](https://www.youtube.com/watch?v=hzC8_UYGor0)
+
+[How to Setup BlackNET Cron Job System](https://www.youtube.com/watch?v=rHCYGRA1h54)
+
+[How to Secure BlackNET Panel](https://www.youtube.com/watch?v=P6dBDr9iCD8)
 
 
 ## What's New
