@@ -83,8 +83,10 @@ Developed By: Black.Hacker
 ## Update notice
 If you have BlackNET installed you need
 
-1. Upload the new files
-2. Run update.php
+1. Make a copy of config.php
+2. Upload the new files
+3. Update the new config.php
+4. Run update.php
 
 ## Screenshots
 
@@ -98,6 +100,8 @@ If you have BlackNET installed you need
 
 ## YouTube Tutorials
 [How to install BlackNET v3.6.0](https://youtu.be/C0YRoLXc26w)
+
+[How to update BlackNET to v3.6.0](https://youtu.be/IaZ3ZA-83UU)
 
 [How to obfuscate BlackNET](https://www.youtube.com/watch?v=hzC8_UYGor0)
 
@@ -140,6 +144,11 @@ v3.6.0
   28. Small Installation Changes
   29. New Logo
   30. Bugs Fixes
+```
+
+## Coming Soon
+```
+v3.6.1
 ```
 
 ## Thanks to
